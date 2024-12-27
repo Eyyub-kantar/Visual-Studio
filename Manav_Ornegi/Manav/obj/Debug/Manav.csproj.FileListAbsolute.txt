@@ -1,0 +1,10 @@
+D:\Desktop\masaüstü\kodlama\visual st\Manav\Manav\bin\Debug\Manav.exe.config
+D:\Desktop\masaüstü\kodlama\visual st\Manav\Manav\bin\Debug\Manav.exe
+D:\Desktop\masaüstü\kodlama\visual st\Manav\Manav\bin\Debug\Manav.pdb
+D:\Desktop\masaüstü\kodlama\visual st\Manav\Manav\obj\Debug\Manav.csproj.AssemblyReference.cache
+D:\Desktop\masaüstü\kodlama\visual st\Manav\Manav\obj\Debug\Manav.Form1.resources
+D:\Desktop\masaüstü\kodlama\visual st\Manav\Manav\obj\Debug\Manav.Properties.Resources.resources
+D:\Desktop\masaüstü\kodlama\visual st\Manav\Manav\obj\Debug\Manav.csproj.GenerateResource.cache
+D:\Desktop\masaüstü\kodlama\visual st\Manav\Manav\obj\Debug\Manav.csproj.CoreCompileInputs.cache
+D:\Desktop\masaüstü\kodlama\visual st\Manav\Manav\obj\Debug\Manav.exe
+D:\Desktop\masaüstü\kodlama\visual st\Manav\Manav\obj\Debug\Manav.pdb
