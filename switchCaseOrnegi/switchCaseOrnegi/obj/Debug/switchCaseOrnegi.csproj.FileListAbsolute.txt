@@ -1,0 +1,10 @@
+D:\Desktop\masaüstü\kodlama\visual st\switchCaseOrnegi\switchCaseOrnegi\obj\Debug\switchCaseOrnegi.csproj.AssemblyReference.cache
+D:\Desktop\masaüstü\kodlama\visual st\switchCaseOrnegi\switchCaseOrnegi\obj\Debug\switchCaseOrnegi.Form1.resources
+D:\Desktop\masaüstü\kodlama\visual st\switchCaseOrnegi\switchCaseOrnegi\obj\Debug\switchCaseOrnegi.Properties.Resources.resources
+D:\Desktop\masaüstü\kodlama\visual st\switchCaseOrnegi\switchCaseOrnegi\obj\Debug\switchCaseOrnegi.csproj.GenerateResource.cache
+D:\Desktop\masaüstü\kodlama\visual st\switchCaseOrnegi\switchCaseOrnegi\obj\Debug\switchCaseOrnegi.csproj.CoreCompileInputs.cache
+D:\Desktop\masaüstü\kodlama\visual st\switchCaseOrnegi\switchCaseOrnegi\bin\Debug\switchCaseOrnegi.exe.config
+D:\Desktop\masaüstü\kodlama\visual st\switchCaseOrnegi\switchCaseOrnegi\bin\Debug\switchCaseOrnegi.exe
+D:\Desktop\masaüstü\kodlama\visual st\switchCaseOrnegi\switchCaseOrnegi\bin\Debug\switchCaseOrnegi.pdb
+D:\Desktop\masaüstü\kodlama\visual st\switchCaseOrnegi\switchCaseOrnegi\obj\Debug\switchCaseOrnegi.exe
+D:\Desktop\masaüstü\kodlama\visual st\switchCaseOrnegi\switchCaseOrnegi\obj\Debug\switchCaseOrnegi.pdb
