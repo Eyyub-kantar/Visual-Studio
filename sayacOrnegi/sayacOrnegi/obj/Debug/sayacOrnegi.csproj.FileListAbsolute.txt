@@ -1,0 +1,10 @@
+D:\Desktop\masaüstü\kodlama\visual st\sayacOrnegi\sayacOrnegi\bin\Debug\sayacOrnegi.exe.config
+D:\Desktop\masaüstü\kodlama\visual st\sayacOrnegi\sayacOrnegi\bin\Debug\sayacOrnegi.exe
+D:\Desktop\masaüstü\kodlama\visual st\sayacOrnegi\sayacOrnegi\bin\Debug\sayacOrnegi.pdb
+D:\Desktop\masaüstü\kodlama\visual st\sayacOrnegi\sayacOrnegi\obj\Debug\sayacOrnegi.csproj.AssemblyReference.cache
+D:\Desktop\masaüstü\kodlama\visual st\sayacOrnegi\sayacOrnegi\obj\Debug\sayacOrnegi.Form1.resources
+D:\Desktop\masaüstü\kodlama\visual st\sayacOrnegi\sayacOrnegi\obj\Debug\sayacOrnegi.Properties.Resources.resources
+D:\Desktop\masaüstü\kodlama\visual st\sayacOrnegi\sayacOrnegi\obj\Debug\sayacOrnegi.csproj.GenerateResource.cache
+D:\Desktop\masaüstü\kodlama\visual st\sayacOrnegi\sayacOrnegi\obj\Debug\sayacOrnegi.csproj.CoreCompileInputs.cache
+D:\Desktop\masaüstü\kodlama\visual st\sayacOrnegi\sayacOrnegi\obj\Debug\sayacOrnegi.exe
+D:\Desktop\masaüstü\kodlama\visual st\sayacOrnegi\sayacOrnegi\obj\Debug\sayacOrnegi.pdb
