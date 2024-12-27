@@ -1,0 +1,10 @@
+D:\Desktop\masaüstü\kodlama\visual st\sinifKademesi\sinifKademesi\bin\Debug\sinifKademesi.exe.config
+D:\Desktop\masaüstü\kodlama\visual st\sinifKademesi\sinifKademesi\bin\Debug\sinifKademesi.exe
+D:\Desktop\masaüstü\kodlama\visual st\sinifKademesi\sinifKademesi\bin\Debug\sinifKademesi.pdb
+D:\Desktop\masaüstü\kodlama\visual st\sinifKademesi\sinifKademesi\obj\Debug\sinifKademesi.csproj.AssemblyReference.cache
+D:\Desktop\masaüstü\kodlama\visual st\sinifKademesi\sinifKademesi\obj\Debug\sinifKademesi.Form1.resources
+D:\Desktop\masaüstü\kodlama\visual st\sinifKademesi\sinifKademesi\obj\Debug\sinifKademesi.Properties.Resources.resources
+D:\Desktop\masaüstü\kodlama\visual st\sinifKademesi\sinifKademesi\obj\Debug\sinifKademesi.csproj.GenerateResource.cache
+D:\Desktop\masaüstü\kodlama\visual st\sinifKademesi\sinifKademesi\obj\Debug\sinifKademesi.csproj.CoreCompileInputs.cache
+D:\Desktop\masaüstü\kodlama\visual st\sinifKademesi\sinifKademesi\obj\Debug\sinifKademesi.exe
+D:\Desktop\masaüstü\kodlama\visual st\sinifKademesi\sinifKademesi\obj\Debug\sinifKademesi.pdb
