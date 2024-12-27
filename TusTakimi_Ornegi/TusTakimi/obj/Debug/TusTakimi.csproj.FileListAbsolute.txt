@@ -1,0 +1,10 @@
+D:\Desktop\masaüstü\kodlama\visual st\TusTakimi\TusTakimi\bin\Debug\TusTakimi.exe.config
+D:\Desktop\masaüstü\kodlama\visual st\TusTakimi\TusTakimi\bin\Debug\TusTakimi.exe
+D:\Desktop\masaüstü\kodlama\visual st\TusTakimi\TusTakimi\bin\Debug\TusTakimi.pdb
+D:\Desktop\masaüstü\kodlama\visual st\TusTakimi\TusTakimi\obj\Debug\TusTakimi.csproj.AssemblyReference.cache
+D:\Desktop\masaüstü\kodlama\visual st\TusTakimi\TusTakimi\obj\Debug\TusTakimi.Form1.resources
+D:\Desktop\masaüstü\kodlama\visual st\TusTakimi\TusTakimi\obj\Debug\TusTakimi.Properties.Resources.resources
+D:\Desktop\masaüstü\kodlama\visual st\TusTakimi\TusTakimi\obj\Debug\TusTakimi.csproj.GenerateResource.cache
+D:\Desktop\masaüstü\kodlama\visual st\TusTakimi\TusTakimi\obj\Debug\TusTakimi.csproj.CoreCompileInputs.cache
+D:\Desktop\masaüstü\kodlama\visual st\TusTakimi\TusTakimi\obj\Debug\TusTakimi.exe
+D:\Desktop\masaüstü\kodlama\visual st\TusTakimi\TusTakimi\obj\Debug\TusTakimi.pdb
