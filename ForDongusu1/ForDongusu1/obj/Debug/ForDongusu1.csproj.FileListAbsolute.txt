@@ -1,0 +1,10 @@
+D:\Desktop\masaüstü\kodlama\visual st\ForDongusu1\ForDongusu1\bin\Debug\ForDongusu1.exe.config
+D:\Desktop\masaüstü\kodlama\visual st\ForDongusu1\ForDongusu1\bin\Debug\ForDongusu1.exe
+D:\Desktop\masaüstü\kodlama\visual st\ForDongusu1\ForDongusu1\bin\Debug\ForDongusu1.pdb
+D:\Desktop\masaüstü\kodlama\visual st\ForDongusu1\ForDongusu1\obj\Debug\ForDongusu1.csproj.AssemblyReference.cache
+D:\Desktop\masaüstü\kodlama\visual st\ForDongusu1\ForDongusu1\obj\Debug\ForDongusu1.Form1.resources
+D:\Desktop\masaüstü\kodlama\visual st\ForDongusu1\ForDongusu1\obj\Debug\ForDongusu1.Properties.Resources.resources
+D:\Desktop\masaüstü\kodlama\visual st\ForDongusu1\ForDongusu1\obj\Debug\ForDongusu1.csproj.GenerateResource.cache
+D:\Desktop\masaüstü\kodlama\visual st\ForDongusu1\ForDongusu1\obj\Debug\ForDongusu1.csproj.CoreCompileInputs.cache
+D:\Desktop\masaüstü\kodlama\visual st\ForDongusu1\ForDongusu1\obj\Debug\ForDongusu1.exe
+D:\Desktop\masaüstü\kodlama\visual st\ForDongusu1\ForDongusu1\obj\Debug\ForDongusu1.pdb
