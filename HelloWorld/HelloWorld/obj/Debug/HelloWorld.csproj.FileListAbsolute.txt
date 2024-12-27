@@ -1,0 +1,10 @@
+D:\Desktop\masaüstü\kodlama\visual st\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\Desktop\masaüstü\kodlama\visual st\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+D:\Desktop\masaüstü\kodlama\visual st\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\Desktop\masaüstü\kodlama\visual st\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+D:\Desktop\masaüstü\kodlama\visual st\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Form1.resources
+D:\Desktop\masaüstü\kodlama\visual st\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
+D:\Desktop\masaüstü\kodlama\visual st\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.cache
+D:\Desktop\masaüstü\kodlama\visual st\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+D:\Desktop\masaüstü\kodlama\visual st\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+D:\Desktop\masaüstü\kodlama\visual st\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
