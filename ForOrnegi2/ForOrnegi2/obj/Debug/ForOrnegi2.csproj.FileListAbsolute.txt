@@ -1,0 +1,10 @@
+D:\Desktop\masaüstü\kodlama\visual st\ForOrnegi2\ForOrnegi2\bin\Debug\ForOrnegi2.exe.config
+D:\Desktop\masaüstü\kodlama\visual st\ForOrnegi2\ForOrnegi2\bin\Debug\ForOrnegi2.exe
+D:\Desktop\masaüstü\kodlama\visual st\ForOrnegi2\ForOrnegi2\bin\Debug\ForOrnegi2.pdb
+D:\Desktop\masaüstü\kodlama\visual st\ForOrnegi2\ForOrnegi2\obj\Debug\ForOrnegi2.csproj.AssemblyReference.cache
+D:\Desktop\masaüstü\kodlama\visual st\ForOrnegi2\ForOrnegi2\obj\Debug\ForOrnegi2.Form1.resources
+D:\Desktop\masaüstü\kodlama\visual st\ForOrnegi2\ForOrnegi2\obj\Debug\ForOrnegi2.Properties.Resources.resources
+D:\Desktop\masaüstü\kodlama\visual st\ForOrnegi2\ForOrnegi2\obj\Debug\ForOrnegi2.csproj.GenerateResource.cache
+D:\Desktop\masaüstü\kodlama\visual st\ForOrnegi2\ForOrnegi2\obj\Debug\ForOrnegi2.csproj.CoreCompileInputs.cache
+D:\Desktop\masaüstü\kodlama\visual st\ForOrnegi2\ForOrnegi2\obj\Debug\ForOrnegi2.exe
+D:\Desktop\masaüstü\kodlama\visual st\ForOrnegi2\ForOrnegi2\obj\Debug\ForOrnegi2.pdb
