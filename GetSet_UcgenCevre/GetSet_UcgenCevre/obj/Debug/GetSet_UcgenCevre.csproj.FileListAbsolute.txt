@@ -1,0 +1,7 @@
+D:\Desktop\masaüstü\kodlama\visual st\GetSet_UcgenCevre\GetSet_UcgenCevre\bin\Debug\GetSet_UcgenCevre.exe.config
+D:\Desktop\masaüstü\kodlama\visual st\GetSet_UcgenCevre\GetSet_UcgenCevre\bin\Debug\GetSet_UcgenCevre.exe
+D:\Desktop\masaüstü\kodlama\visual st\GetSet_UcgenCevre\GetSet_UcgenCevre\bin\Debug\GetSet_UcgenCevre.pdb
+D:\Desktop\masaüstü\kodlama\visual st\GetSet_UcgenCevre\GetSet_UcgenCevre\obj\Debug\GetSet_UcgenCevre.csproj.AssemblyReference.cache
+D:\Desktop\masaüstü\kodlama\visual st\GetSet_UcgenCevre\GetSet_UcgenCevre\obj\Debug\GetSet_UcgenCevre.csproj.CoreCompileInputs.cache
+D:\Desktop\masaüstü\kodlama\visual st\GetSet_UcgenCevre\GetSet_UcgenCevre\obj\Debug\GetSet_UcgenCevre.exe
+D:\Desktop\masaüstü\kodlama\visual st\GetSet_UcgenCevre\GetSet_UcgenCevre\obj\Debug\GetSet_UcgenCevre.pdb

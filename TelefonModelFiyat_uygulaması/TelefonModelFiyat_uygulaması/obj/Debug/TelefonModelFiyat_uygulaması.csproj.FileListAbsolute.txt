@@ -1,0 +1,7 @@
+D:\Desktop\masaüstü\kodlama\visual st\TelefonModelFiyat_uygulaması\TelefonModelFiyat_uygulaması\bin\Debug\TelefonModelFiyat_uygulaması.exe.config
+D:\Desktop\masaüstü\kodlama\visual st\TelefonModelFiyat_uygulaması\TelefonModelFiyat_uygulaması\bin\Debug\TelefonModelFiyat_uygulaması.exe
+D:\Desktop\masaüstü\kodlama\visual st\TelefonModelFiyat_uygulaması\TelefonModelFiyat_uygulaması\bin\Debug\TelefonModelFiyat_uygulaması.pdb
+D:\Desktop\masaüstü\kodlama\visual st\TelefonModelFiyat_uygulaması\TelefonModelFiyat_uygulaması\obj\Debug\TelefonModelFiyat_uygulaması.csproj.AssemblyReference.cache
+D:\Desktop\masaüstü\kodlama\visual st\TelefonModelFiyat_uygulaması\TelefonModelFiyat_uygulaması\obj\Debug\TelefonModelFiyat_uygulaması.csproj.CoreCompileInputs.cache
+D:\Desktop\masaüstü\kodlama\visual st\TelefonModelFiyat_uygulaması\TelefonModelFiyat_uygulaması\obj\Debug\TelefonModelFiyat_uygulaması.exe
+D:\Desktop\masaüstü\kodlama\visual st\TelefonModelFiyat_uygulaması\TelefonModelFiyat_uygulaması\obj\Debug\TelefonModelFiyat_uygulaması.pdb

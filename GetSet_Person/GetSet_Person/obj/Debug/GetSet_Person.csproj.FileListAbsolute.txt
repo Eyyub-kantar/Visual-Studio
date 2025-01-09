@@ -1,0 +1,7 @@
+D:\Desktop\masaüstü\kodlama\visual st\GetSet_Person\GetSet_Person\bin\Debug\GetSet_Person.exe.config
+D:\Desktop\masaüstü\kodlama\visual st\GetSet_Person\GetSet_Person\bin\Debug\GetSet_Person.exe
+D:\Desktop\masaüstü\kodlama\visual st\GetSet_Person\GetSet_Person\bin\Debug\GetSet_Person.pdb
+D:\Desktop\masaüstü\kodlama\visual st\GetSet_Person\GetSet_Person\obj\Debug\GetSet_Person.csproj.AssemblyReference.cache
+D:\Desktop\masaüstü\kodlama\visual st\GetSet_Person\GetSet_Person\obj\Debug\GetSet_Person.csproj.CoreCompileInputs.cache
+D:\Desktop\masaüstü\kodlama\visual st\GetSet_Person\GetSet_Person\obj\Debug\GetSet_Person.exe
+D:\Desktop\masaüstü\kodlama\visual st\GetSet_Person\GetSet_Person\obj\Debug\GetSet_Person.pdb

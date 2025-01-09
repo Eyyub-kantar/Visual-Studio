@@ -1,0 +1,7 @@
+D:\Desktop\masaüstü\kodlama\visual st\BuyukSayi_Ornegi\BuyukSayi_Ornegi\bin\Debug\BuyukSayi_Ornegi.exe.config
+D:\Desktop\masaüstü\kodlama\visual st\BuyukSayi_Ornegi\BuyukSayi_Ornegi\bin\Debug\BuyukSayi_Ornegi.exe
+D:\Desktop\masaüstü\kodlama\visual st\BuyukSayi_Ornegi\BuyukSayi_Ornegi\bin\Debug\BuyukSayi_Ornegi.pdb
+D:\Desktop\masaüstü\kodlama\visual st\BuyukSayi_Ornegi\BuyukSayi_Ornegi\obj\Debug\BuyukSayi_Ornegi.csproj.AssemblyReference.cache
+D:\Desktop\masaüstü\kodlama\visual st\BuyukSayi_Ornegi\BuyukSayi_Ornegi\obj\Debug\BuyukSayi_Ornegi.csproj.CoreCompileInputs.cache
+D:\Desktop\masaüstü\kodlama\visual st\BuyukSayi_Ornegi\BuyukSayi_Ornegi\obj\Debug\BuyukSayi_Ornegi.exe
+D:\Desktop\masaüstü\kodlama\visual st\BuyukSayi_Ornegi\BuyukSayi_Ornegi\obj\Debug\BuyukSayi_Ornegi.pdb

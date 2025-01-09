@@ -1,0 +1,7 @@
+D:\Desktop\masaüstü\kodlama\visual st\SetGet_Araba\SetGet_Araba\bin\Debug\SetGet_Araba.exe.config
+D:\Desktop\masaüstü\kodlama\visual st\SetGet_Araba\SetGet_Araba\bin\Debug\SetGet_Araba.exe
+D:\Desktop\masaüstü\kodlama\visual st\SetGet_Araba\SetGet_Araba\bin\Debug\SetGet_Araba.pdb
+D:\Desktop\masaüstü\kodlama\visual st\SetGet_Araba\SetGet_Araba\obj\Debug\SetGet_Araba.csproj.AssemblyReference.cache
+D:\Desktop\masaüstü\kodlama\visual st\SetGet_Araba\SetGet_Araba\obj\Debug\SetGet_Araba.csproj.CoreCompileInputs.cache
+D:\Desktop\masaüstü\kodlama\visual st\SetGet_Araba\SetGet_Araba\obj\Debug\SetGet_Araba.exe
+D:\Desktop\masaüstü\kodlama\visual st\SetGet_Araba\SetGet_Araba\obj\Debug\SetGet_Araba.pdb

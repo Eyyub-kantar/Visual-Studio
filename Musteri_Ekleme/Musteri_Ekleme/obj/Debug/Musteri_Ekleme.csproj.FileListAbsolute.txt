@@ -1,0 +1,7 @@
+D:\Desktop\masaüstü\kodlama\visual st\Musteri_Ekleme\Musteri_Ekleme\bin\Debug\Musteri_Ekleme.exe.config
+D:\Desktop\masaüstü\kodlama\visual st\Musteri_Ekleme\Musteri_Ekleme\bin\Debug\Musteri_Ekleme.exe
+D:\Desktop\masaüstü\kodlama\visual st\Musteri_Ekleme\Musteri_Ekleme\bin\Debug\Musteri_Ekleme.pdb
+D:\Desktop\masaüstü\kodlama\visual st\Musteri_Ekleme\Musteri_Ekleme\obj\Debug\Musteri_Ekleme.csproj.AssemblyReference.cache
+D:\Desktop\masaüstü\kodlama\visual st\Musteri_Ekleme\Musteri_Ekleme\obj\Debug\Musteri_Ekleme.csproj.CoreCompileInputs.cache
+D:\Desktop\masaüstü\kodlama\visual st\Musteri_Ekleme\Musteri_Ekleme\obj\Debug\Musteri_Ekleme.exe
+D:\Desktop\masaüstü\kodlama\visual st\Musteri_Ekleme\Musteri_Ekleme\obj\Debug\Musteri_Ekleme.pdb
