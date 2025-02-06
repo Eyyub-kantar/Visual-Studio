@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface_Ornek_MWR", "Interface_Ornek_MWR\Interface_Ornek_MWR.csproj", "{DBD7C74C-247B-411D-A700-FA64FFA90EC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBD7C74C-247B-411D-A700-FA64FFA90EC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBD7C74C-247B-411D-A700-FA64FFA90EC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBD7C74C-247B-411D-A700-FA64FFA90EC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBD7C74C-247B-411D-A700-FA64FFA90EC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99E053B6-18EA-46E1-8613-BFF53B76EDE3}
+	EndGlobalSection
+EndGlobal

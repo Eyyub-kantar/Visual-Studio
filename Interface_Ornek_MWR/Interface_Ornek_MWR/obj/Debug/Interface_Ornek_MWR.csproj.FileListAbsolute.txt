@@ -1,0 +1,7 @@
+D:\Desktop\masaüstü\kodlama\visual st\Interface_Ornek_MWR\Interface_Ornek_MWR\bin\Debug\Interface_Ornek_MWR.exe.config
+D:\Desktop\masaüstü\kodlama\visual st\Interface_Ornek_MWR\Interface_Ornek_MWR\bin\Debug\Interface_Ornek_MWR.exe
+D:\Desktop\masaüstü\kodlama\visual st\Interface_Ornek_MWR\Interface_Ornek_MWR\bin\Debug\Interface_Ornek_MWR.pdb
+D:\Desktop\masaüstü\kodlama\visual st\Interface_Ornek_MWR\Interface_Ornek_MWR\obj\Debug\Interface_Ornek_MWR.csproj.AssemblyReference.cache
+D:\Desktop\masaüstü\kodlama\visual st\Interface_Ornek_MWR\Interface_Ornek_MWR\obj\Debug\Interface_Ornek_MWR.csproj.CoreCompileInputs.cache
+D:\Desktop\masaüstü\kodlama\visual st\Interface_Ornek_MWR\Interface_Ornek_MWR\obj\Debug\Interface_Ornek_MWR.exe
+D:\Desktop\masaüstü\kodlama\visual st\Interface_Ornek_MWR\Interface_Ornek_MWR\obj\Debug\Interface_Ornek_MWR.pdb
