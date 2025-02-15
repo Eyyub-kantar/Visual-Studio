@@ -1,0 +1,7 @@
+D:\Desktop\masaüstü\kodlama\visual st\InterfaceOrnek2\InterfaceOrnek2\bin\Debug\InterfaceOrnek2.exe.config
+D:\Desktop\masaüstü\kodlama\visual st\InterfaceOrnek2\InterfaceOrnek2\bin\Debug\InterfaceOrnek2.exe
+D:\Desktop\masaüstü\kodlama\visual st\InterfaceOrnek2\InterfaceOrnek2\bin\Debug\InterfaceOrnek2.pdb
+D:\Desktop\masaüstü\kodlama\visual st\InterfaceOrnek2\InterfaceOrnek2\obj\Debug\InterfaceOrnek2.csproj.AssemblyReference.cache
+D:\Desktop\masaüstü\kodlama\visual st\InterfaceOrnek2\InterfaceOrnek2\obj\Debug\InterfaceOrnek2.csproj.CoreCompileInputs.cache
+D:\Desktop\masaüstü\kodlama\visual st\InterfaceOrnek2\InterfaceOrnek2\obj\Debug\InterfaceOrnek2.exe
+D:\Desktop\masaüstü\kodlama\visual st\InterfaceOrnek2\InterfaceOrnek2\obj\Debug\InterfaceOrnek2.pdb
