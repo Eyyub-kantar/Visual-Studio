@@ -1,0 +1,7 @@
+D:\Desktop\masaüstü\kodlama\visual st\InterfaceHayvanUygulamasi\InterfaceHayvanUygulamasi\bin\Debug\InterfaceHayvanUygulamasi.exe.config
+D:\Desktop\masaüstü\kodlama\visual st\InterfaceHayvanUygulamasi\InterfaceHayvanUygulamasi\bin\Debug\InterfaceHayvanUygulamasi.exe
+D:\Desktop\masaüstü\kodlama\visual st\InterfaceHayvanUygulamasi\InterfaceHayvanUygulamasi\bin\Debug\InterfaceHayvanUygulamasi.pdb
+D:\Desktop\masaüstü\kodlama\visual st\InterfaceHayvanUygulamasi\InterfaceHayvanUygulamasi\obj\Debug\InterfaceHayvanUygulamasi.csproj.AssemblyReference.cache
+D:\Desktop\masaüstü\kodlama\visual st\InterfaceHayvanUygulamasi\InterfaceHayvanUygulamasi\obj\Debug\InterfaceHayvanUygulamasi.csproj.CoreCompileInputs.cache
+D:\Desktop\masaüstü\kodlama\visual st\InterfaceHayvanUygulamasi\InterfaceHayvanUygulamasi\obj\Debug\InterfaceHayvanUygulamasi.exe
+D:\Desktop\masaüstü\kodlama\visual st\InterfaceHayvanUygulamasi\InterfaceHayvanUygulamasi\obj\Debug\InterfaceHayvanUygulamasi.pdb
