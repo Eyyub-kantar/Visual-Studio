@@ -1,0 +1,10 @@
+G:\VisualStudio_Projeler\ListUygulama1\ListUygulama1\bin\Debug\ListUygulama1.exe.config
+G:\VisualStudio_Projeler\ListUygulama1\ListUygulama1\bin\Debug\ListUygulama1.exe
+G:\VisualStudio_Projeler\ListUygulama1\ListUygulama1\bin\Debug\ListUygulama1.pdb
+G:\VisualStudio_Projeler\ListUygulama1\ListUygulama1\obj\Debug\ListUygulama1.csproj.AssemblyReference.cache
+G:\VisualStudio_Projeler\ListUygulama1\ListUygulama1\obj\Debug\ListUygulama1.Form1.resources
+G:\VisualStudio_Projeler\ListUygulama1\ListUygulama1\obj\Debug\ListUygulama1.Properties.Resources.resources
+G:\VisualStudio_Projeler\ListUygulama1\ListUygulama1\obj\Debug\ListUygulama1.csproj.GenerateResource.cache
+G:\VisualStudio_Projeler\ListUygulama1\ListUygulama1\obj\Debug\ListUygulama1.csproj.CoreCompileInputs.cache
+G:\VisualStudio_Projeler\ListUygulama1\ListUygulama1\obj\Debug\ListUygulama1.exe
+G:\VisualStudio_Projeler\ListUygulama1\ListUygulama1\obj\Debug\ListUygulama1.pdb
