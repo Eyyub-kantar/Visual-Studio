@@ -1,0 +1,10 @@
+G:\VisualStudio_Projeler\ArraylistUygulama_1\ArraylistUygulama_1\bin\Debug\ArraylistUygulama_1.exe.config
+G:\VisualStudio_Projeler\ArraylistUygulama_1\ArraylistUygulama_1\bin\Debug\ArraylistUygulama_1.exe
+G:\VisualStudio_Projeler\ArraylistUygulama_1\ArraylistUygulama_1\bin\Debug\ArraylistUygulama_1.pdb
+G:\VisualStudio_Projeler\ArraylistUygulama_1\ArraylistUygulama_1\obj\Debug\ArraylistUygulama_1.csproj.AssemblyReference.cache
+G:\VisualStudio_Projeler\ArraylistUygulama_1\ArraylistUygulama_1\obj\Debug\ArraylistUygulama_1.Form1.resources
+G:\VisualStudio_Projeler\ArraylistUygulama_1\ArraylistUygulama_1\obj\Debug\ArraylistUygulama_1.Properties.Resources.resources
+G:\VisualStudio_Projeler\ArraylistUygulama_1\ArraylistUygulama_1\obj\Debug\ArraylistUygulama_1.csproj.GenerateResource.cache
+G:\VisualStudio_Projeler\ArraylistUygulama_1\ArraylistUygulama_1\obj\Debug\ArraylistUygulama_1.csproj.CoreCompileInputs.cache
+G:\VisualStudio_Projeler\ArraylistUygulama_1\ArraylistUygulama_1\obj\Debug\ArraylistUygulama_1.exe
+G:\VisualStudio_Projeler\ArraylistUygulama_1\ArraylistUygulama_1\obj\Debug\ArraylistUygulama_1.pdb
